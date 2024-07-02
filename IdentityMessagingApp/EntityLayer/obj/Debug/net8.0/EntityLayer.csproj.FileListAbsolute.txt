@@ -1,0 +1,14 @@
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\bin\Debug\net8.0\EntityLayer.runtimeconfig.json
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\obj\Debug\net8.0\EntityLayer.genruntimeconfig.cache
+D:\SoftwareProject\MYYazilimProjeleri\IdentityMessagingApp\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll

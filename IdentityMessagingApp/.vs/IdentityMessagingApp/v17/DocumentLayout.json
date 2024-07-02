@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\message\\receivermessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\message\\receivermessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\shared\\_writerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\shared\\_writerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\shared\\components\\_defaultnavbarcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\shared\\components\\_defaultnavbarcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\default\\_settingsbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\default\\_settingsbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\default\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\default\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\controllers\\profilesettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\controllers\\profilesettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\controllers\\dashboardmessangercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\controllers\\dashboardmessangercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\message\\sendermessagedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\message\\sendermessagedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\dashboardmessanger\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\dashboardmessanger\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\profilesettings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\profilesettings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\message\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\message\\sendmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\message\\rubbishmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\message\\rubbishmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\message\\receivermessagedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\message\\receivermessagedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\views\\message\\sendermessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\views\\message\\sendermessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|d:\\softwareproject\\myyazilimprojeleri\\identitymessagingapp\\identitymessagingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7717F68-326C-4BD4-AEC2-68BECEAA48D3}|IdentityMessagingApp\\IdentityMessagingApp.csproj|solutionrelative:identitymessagingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_WriterLayout.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Shared\\_WriterLayout.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\Shared\\_WriterLayout.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Shared\\_WriterLayout.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\Shared\\_WriterLayout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T21:53:43.609Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "IdentityMessagingApp\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:26:31.81Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_SettingsBar.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Default\\_SettingsBar.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\Default\\_SettingsBar.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Default\\_SettingsBar.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\Default\\_SettingsBar.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T20:12:51.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T02:17:38.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\ProfileSettings\\Index.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\ProfileSettings\\Index.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\ProfileSettings\\Index.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\ProfileSettings\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T02:12:44.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileSettingsController.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Controllers\\ProfileSettingsController.cs",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Controllers\\ProfileSettingsController.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Controllers\\ProfileSettingsController.cs",
+              "RelativeToolTip": "IdentityMessagingApp\\Controllers\\ProfileSettingsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:12:41.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Shared\\Components\\_DefaultNavbarComponent\\Default.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\Shared\\Components\\_DefaultNavbarComponent\\Default.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Shared\\Components\\_DefaultNavbarComponent\\Default.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\Shared\\Components\\_DefaultNavbarComponent\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T02:12:24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_SideBarPartial.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Default\\_SideBarPartial.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\Default\\_SideBarPartial.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Default\\_SideBarPartial.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\Default\\_SideBarPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T02:12:12.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardMessangerController.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Controllers\\DashboardMessangerController.cs",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Controllers\\DashboardMessangerController.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Controllers\\DashboardMessangerController.cs",
+              "RelativeToolTip": "IdentityMessagingApp\\Controllers\\DashboardMessangerController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T02:11:44.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\DashboardMessanger\\Index.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\DashboardMessanger\\Index.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\DashboardMessanger\\Index.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\DashboardMessanger\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T02:11:31.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RubbishMessage.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\RubbishMessage.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\Message\\RubbishMessage.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\RubbishMessage.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\Message\\RubbishMessage.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwEAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T02:06:32.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReceiverMessageDetails.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\ReceiverMessageDetails.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\Message\\ReceiverMessageDetails.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\ReceiverMessageDetails.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\Message\\ReceiverMessageDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T02:04:49.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SenderMessageDetails.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\SenderMessageDetails.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\Message\\SenderMessageDetails.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\SenderMessageDetails.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\Message\\SenderMessageDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T02:01:18.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SenderMessage.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\SenderMessage.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\Message\\SenderMessage.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\SenderMessage.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\Message\\SenderMessage.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T01:43:37.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SendMessage.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\SendMessage.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\Message\\SendMessage.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\SendMessage.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\Message\\SendMessage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T01:39:27.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceiverMessage.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\ReceiverMessage.cshtml",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Views\\Message\\ReceiverMessage.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Views\\Message\\ReceiverMessage.cshtml",
+              "RelativeToolTip": "IdentityMessagingApp\\Views\\Message\\ReceiverMessage.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T01:36:46.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityMessagingApp\\Program.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\IdentityMessagingApp\\IdentityMessagingApp\\Program.cs",
+              "RelativeToolTip": "IdentityMessagingApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:07:48.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
